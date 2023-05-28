@@ -1,0 +1,34 @@
+{
+    "biodata": [
+      {
+        "rolePertama": "Student",
+        "roleKedua": "Web Developer",
+        "roleKetiga": "Basketball Player",
+        "textPertama": " Nama saya Priscillia Candra. Saya lahir pada tanggal 10 Oktober 2005. Saat ini, saya berdomisili di Kelapa Gading, Jakarta Utara. Saya sekolah di SMA Mahatma Gading, Jakarta Utara kelas 12 IPA. Saya akan melanjukan perguruan tinggi saya di Binus University Kemanggisan jurusan Computer Science. baru",
+        "textKedua": " Jurusan kuliah yang saya inginkan membuat saya tertarik untuk belajar coding sejak saya berada di kelas 12. Saya berharap saya akan bisa menjadi programmer yang profesional nantinya. Selain itu, saya juga memiliki hobi yaitu bermain basket dan saya juga sering mengikuti pertandingan basket antar club. baru",
+        "imageProfile": "https://1.bp.blogspot.com/-x1uySxT7XQA/XYZxWyOQTmI/AAAAAAAALrI/aZUAYpbB7KgcpwzV_BkAZXKOEz7EdD4fACLcBGAsYHQ/s1600/01-49-44-1.jpg",
+        "imageResumePertama": "https://1.bp.blogspot.com/-x1uySxT7XQA/XYZxWyOQTmI/AAAAAAAALrI/aZUAYpbB7KgcpwzV_BkAZXKOEz7EdD4fACLcBGAsYHQ/s1600/01-49-44-1.jpg",
+        "imageResumeKedua": "https://th.bing.com/th/id/R.a283211d1ba87bb843118de51b6dd2ba?rik=6oSAF%2b702WOhfg&riu=http%3a%2f%2fbinus.edu%2fmuseum%2fwp-content%2fuploads%2f2021%2f06%2fWhatsApp-Image-2021-06-09-at-18.46.23-768x512.jpeg&ehk=qsXEhaoZSZA%2f2OxcRWxulonm1XtjPwCtPKXDgVVAa8A%3d&risl=&pid=ImgRaw&r=0",
+        "imagePortfolioPertama": "https://demotix.com/wp-content/uploads/2020/11/coding-on-a-computer-1170x780.jpg",
+        "imagePortfolioKedua": "https://bloximages.newyork1.vip.townnews.com/journalnow.com/content/tncms/assets/v3/editorial/9/06/906275bb-0bf5-5f27-8caa-fefe165e916c/58b9c351d5804.image.jpg?resize=400%2C269",
+        "imagePortfolioKetiga": "https://wallpapercave.com/wp/wp2302437.jpg",
+        "imagePortfolioKeempat": "https://www.educaciontrespuntocero.com/wp-content/uploads/2021/02/mtematicas-768x512.png",
+        "imagePortfolioKelima": "https://irp-cdn.multiscreensite.com/9392f570/import/base/dms3rep/multi/mobile/img.jpeg",
+        "imagePortfolioKeenam": "https://wallpapercave.com/wp/wp2302437.jpg",
+        "imageSkillPertama": "https://www.dc.com.tw/wp-content/uploads/2019/11/HTML5-500x383@2x.jpg",
+        "imageSkillKedua": "https://th.bing.com/th/id/R.8cbb6c93c2ad7139bfbe4a8299f12d23?rik=bHT7NevTou3yVw&riu=http%3a%2f%2finterview.skyrites.com%2fwp-content%2fuploads%2f2020%2f02%2fCSS-480x360.jpg&ehk=PIBNx2W9DqeJE2mq773MKvUTvzJW40l0bhZJynnJhpA%3d&risl=&pid=ImgRaw&r=0",
+        "imageSkillKetiga": "https://logos-download.com/wp-content/uploads/2019/01/JavaScript_Logo.png",
+        "imageSkillKeempat": "https://th.bing.com/th/id/OIP.mX64NOOqOrUTF0R5AbeQLQHaF7?pid=ImgDet&rs=1",
+        "imageSkillKelima": "https://www.filepicker.io/api/file/sSiotFQLSdqcDdblDpis",
+        "imageSkillKeenam": "https://logos-download.com/wp-content/uploads/2019/01/JavaScript_Logo.png",
+        "id": 1
+      }
+    ],
+  "posts": [
+    { "id": 1, "title": "json-server", "author": "typicode" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 }
+  ],
+  "profile": { "name": "typicode" }
+}
